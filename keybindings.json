@@ -1,0 +1,23 @@
+[
+  // Place your key bindings in this file to overwrite the defaults
+  {
+    "key": "shift+down",
+    "command": "editor.action.copyLinesDownAction",
+    "when": "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "shift+up",
+    "command": "editor.action.copyLinesUpAction",
+    "when": "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "ctrl+u",
+    "command": "editor.action.transformToUppercase",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+l",
+    "command": "editor.action.transformToLowercase",
+    "when": "editorTextFocus"
+  }
+]
