@@ -1,15 +1,43 @@
-akhail.save-typing
-christian-kohler.npm-intellisense
-christian-kohler.path-intellisense
-cmstead.jsrefactor
-dbaeumer.vscode-eslint
-ecmel.vscode-html-css
-eg2.tslint
-eg2.vscode-npm-script
-esbenp.prettier-vscode
-formulahendry.auto-close-tag
-ionutvmi.path-autocomplete
-lamartire.git-indicators
-robertohuertasm.vscode-icons
-stringham.move-ts
-xabikos.JavaScriptSnippets
+code --install-extension 2gua.rainbow-brackets
+code --install-extension CoenraadS.disableligatures
+code --install-extension NuclleaR.vscode-extension-auto-import
+code --install-extension alefragnani.Bookmarks
+code --install-extension ChakrounAnas.turbo-console-log
+code --install-extension christian-kohler.npm-intellisense
+code --install-extension christian-kohler.path-intellisense
+code --install-extension CoenraadS.bracket-pair-colorizer
+code --install-extension cuneyt-aliustaoglu.vscode-react-proptypes-intellisense
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension donjayamanne.githistory
+code --install-extension eamodio.gitlens
+code --install-extension ecmel.vscode-html-css
+code --install-extension eg2.tslint
+code --install-extension esbenp.prettier-vscode
+code --install-extension formulahendry.auto-close-tag
+code --install-extension freebroccolo.reasonml
+code --install-extension geddski.macros
+code --install-extension glen-84.sass-lint
+code --install-extension huizhou.githd
+code --install-extension infeng.vscode-react-typescript
+code --install-extension ionutvmi.path-autocomplete
+code --install-extension kserjey.react-default-it
+code --install-extension kuscamara.electron
+code --install-extension lamartire.git-indicators
+code --install-extension lihui.vs-color-picker
+code --install-extension mikestead.dotenv
+code --install-extension naumovs.color-highlight
+code --install-extension neeraj-singh.vscode-js-console-utils-extended
+code --install-extension patrys.vscode-code-outline
+code --install-extension pmneo.tsimporter
+code --install-extension robertohuertasm.vscode-icons
+code --install-extension robinbentley.sass-indented
+code --install-extension sasa.vscode-sass-format
+code --install-extension saviorisdead.Theme-GitHubCleanWhite
+code --install-extension shaharkazaz.git-merger
+code --install-extension streetsidesoftware.code-spell-checker
+code --install-extension streetsidesoftware.code-spell-checker-russian
+code --install-extension stringham.move-ts
+code --install-extension whizkydee.material-palenight-theme
+code --install-extension wmaurer.change-case
+code --install-extension xabikos.JavaScriptSnippets
+code --install-extension xabikos.ReactSnippets

@@ -1,5 +1,4 @@
 [
-  // Place your key bindings in this file to overwrite the defaults
   {
     "key": "shift+down",
     "command": "editor.action.copyLinesDownAction",
@@ -19,5 +18,31 @@
     "key": "ctrl+l",
     "command": "editor.action.transformToLowercase",
     "when": "editorTextFocus"
-  }
+  },
+  {
+    "key": "ctrl+k",
+    "command": "editor.action.formatSelection",
+    "when": "editorHasSelection && editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "ctrl+k ctrl+f",
+    "command": "-editor.action.formatSelection",
+    "when": "editorHasSelection && editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "ctrl+shift+i",
+    "command": "macros.tslintFormat",
+  },
+  {
+    "key": "alt+c",
+    "command": "extension.changeCase.camel"
+  },
+  {
+    "key": "ctrl+alt+;",
+    "command": "turboConsoleLog.displayLogMessage"
+  },
+  {
+    "key": "ctrl+alt+l",
+    "command": "-turboConsoleLog.displayLogMessage"
+  },
 ]
