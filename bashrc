@@ -1,0 +1,10 @@
+# -- custom alias
+alias inst='sudo apt-get install'
+alias updt='sudo apt-get update'
+alias upgr='sudo apt-get upgrade'
+alias gp='git push origin HEAD'
+alias gf='git fetch'
+alias gpl='git pull'
+alias gm='git checkout master'
+alias gc='git commit -m '
+alias gl='git log --graph --pretty=oneline --abbrev-commit'
