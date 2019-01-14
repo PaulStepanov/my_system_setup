@@ -1,19 +1,11 @@
 {
+    "terminal.integrated.shell.linux": "fish",
     "editor.formatOnSave": false,
     "workbench.iconTheme": "vscode-icons",
-    "prettier.eslintIntegration": false,
     "editor.fontSize": 18,
     "window.zoomLevel": 1,
     "vsicons.dontShowNewVersionMessage": true,
     "diffEditor.ignoreTrimWhitespace": false,
-    "prettier.singleQuote": true,
-    "prettier.trailingComma": "all",
-    "macros": {
-        "tslintFormat": [
-            "editor.action.formatDocument",
-            "tslint.fixAllProblems"
-        ]
-    },
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
     "gitlens.advanced.messages": {
